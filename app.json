@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Pavan Aditya's R-Native App",
+    "slug": "helloWorldReactNative",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/helloworld.png",
+    "primaryColor": "#000",
+    "splash": {
+      "image": "./assets/images/helloworld.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
